@@ -1,7 +1,7 @@
 
 # Nearmelab
 
-![NearMe Social Banner](public/images/social.jpeg)
+![NearMe Social Banner](/public/images/social.jpeg)
 
 Welcome to the official GitHub presence for **Nearmelab**! We are a new company passionate about building modern, efficient, and open-source web solutions. Our goal is to contribute to the developer community by creating high-quality tools and projects.
 
